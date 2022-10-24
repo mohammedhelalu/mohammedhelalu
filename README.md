@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohammedhelalu
-- 👀 I’m interested in ( blockchain )
-- 🌱 I’m currently learning (solidity)
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in ( data science )
+- 🌱 I’m currently learning (machine learning)
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me ...youtube
 
 <!---
