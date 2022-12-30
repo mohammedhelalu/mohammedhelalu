@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedhelalu
-- 👀 I’m interested in ( data science )
-- 🌱 I’m currently learning (machine learning)
+- 👀 I’m interested in ( data science - data analyze )
+- 🌱 I’m currently learning (machine learning - SQL)
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me ...youtube
 
