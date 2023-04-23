@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </p> 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCopFnLUGS%2FSkdAynxbM0Iw%3D%3D" target="_blank](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCopFnLUGS%2FSkdAynxbM0Iw%3D%3D)"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCopFnLUGS%2FSkdAynxbM0Iw%3D%3D" target="_blank](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BCopFnLUGS%2FSkdAynxbM0Iw%3D%3D)"><img src="https://img.shields.io/badge/-mohammed%20helal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;DATA ANALYST
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
